@@ -78,6 +78,6 @@ plt.tight_layout()
 plt.show()
 ```
 ## OUTPUT WAVEFORM
-![image](https://github.com/user-attachments/assets/e543859c-5103-44fb-aa6f-1cec30f2be38)
+![image](https://github.com/user-attachments/assets/6747f2eb-a717-427a-9698-4ab3aad892a6)
 ## RESULT
 The delta modulation successfully encoded and decoded the sine wave signal. Applying a low-pass filter to the demodulated signal significantly reduced distortion, resulting in a smooth reconstructed waveform that closely resembles the original signal.
